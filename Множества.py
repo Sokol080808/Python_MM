@@ -1,5 +1,5 @@
 s1 = set()
-s1.add(3)
+s1.add(1)
 s1.add("S")
 s2 = set()
 s2.add(5)
